@@ -1,4 +1,4 @@
-package main.java.co.edu.unicartagena.concesionario.domain.services;
+package co.edu.unicartagena.concesionario.domain.services;
  
 import co.edu.unicartagena.concesionario.domain.entities.GarantiaVehiculo;
 import co.edu.unicartagena.concesionario.domain.entities.PiezaRepuesto;

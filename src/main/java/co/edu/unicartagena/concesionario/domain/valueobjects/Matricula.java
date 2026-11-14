@@ -1,4 +1,4 @@
-package main.java.co.edu.unicartagena.concesionario.domain.valueobjects;
+package co.edu.unicartagena.concesionario.domain.valueobjects;
  
 import co.edu.unicartagena.concesionario.domain.exceptions.ExcepcionDominio;
 import java.util.Objects;

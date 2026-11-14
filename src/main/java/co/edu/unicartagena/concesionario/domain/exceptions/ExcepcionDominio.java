@@ -1,4 +1,4 @@
-package src.main.java.sco.edu.unicartagena.concesionario.domain.exceptions;
+package co.edu.unicartagena.concesionario.domain.exceptions;
  
 public class ExcepcionDominio extends RuntimeException {
  
